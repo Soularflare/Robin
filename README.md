@@ -20,7 +20,7 @@ Robin is an automated bird feeder that programmed and controlled using a linux k
 
 
 ### Acquiring and assembling the hardware  
-//![IMG_20200203_010155670](https://user-images.githubusercontent.com/30604147/73686224-71f51e80-467c-11ea-97a8-bf1a53012274.jpg)
+
 
 For this project you will need the following:
 
