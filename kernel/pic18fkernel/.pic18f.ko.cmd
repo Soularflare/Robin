@@ -1,0 +1,1 @@
+cmd_/home/richard/kernel/pic18fkernel/pic18f.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/richard/kernel/pic18fkernel/pic18f.ko /home/richard/kernel/pic18fkernel/pic18f.o /home/richard/kernel/pic18fkernel/pic18f.mod.o;  true
