@@ -19,10 +19,12 @@ Turn Off Feeder - Turns off any other modes that have been set so that only Manu
 ```
 
 
-## Required Libraries and Dependencies
+
+## Features
 
 
 ## Getting Started
+
 
 
 ### Installing prerequesites
