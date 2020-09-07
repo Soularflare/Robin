@@ -21,7 +21,12 @@ Turn Off Feeder - Turns off any other modes that have been set so that only Manu
 
 
 ## Features
-
+  - Written in C/C++
+  - Linux kernel
+  - USB, PCI, and other drivers
+  - Qt GUI Application
+  - BeagleBone Black board
+  - PIC18F4550 board
 
 ## Getting Started
 
